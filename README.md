@@ -21,3 +21,7 @@ Note: the below commands have been tested on g++ compiler (windows). Accordingly
 cd labyrinth_c++
 g++ labyrinth.cpp -o output.exe && output.exe 
 ```
+
+## 3. JdeRobot Robotics Academy Challenge (Exercises)
+follow_turtlebot: Code for following drone to ground turtle robot. \
+smooth_line_follow: Code for follow line exercise
