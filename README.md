@@ -1,6 +1,6 @@
 # robotics-academy-challenge
 
-## 1. Simulating Brownian Motion - python challenge
+## 1. Simulating Brownian Motion - Python challenge
 
 Setting up environment
 ```
@@ -23,5 +23,5 @@ g++ labyrinth.cpp -o output.exe && output.exe
 ```
 
 ## 3. JdeRobot Robotics Academy Challenge (Exercises)
-follow_turtlebot: Code for following drone to ground turtle robot. \
-smooth_line_follow: Code for follow line exercise
+follow_turtlebot: Code for following drone to ground turtle robot. [[Follow turtlebot video]](https://youtu.be/WlwsG1qkb3g)\
+smooth_line_follow: Code for follow line exercise. [[Follow line video]](https://youtu.be/aW93Sfc6F1k) 
